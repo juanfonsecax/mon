@@ -1,9 +1,9 @@
 # mon — repo retirado
 
-**El dashboard financiero ya no vive aquí.** Corre en el repo `judiff`:
+**El dashboard financiero ya no vive aquí.** Corre en el repo `dashboard-negocios`:
 
-- Sitio publicado: https://juanfonsecax.github.io/judiff/panel/
-- Código: https://github.com/juanfonsecax/judiff → carpeta `panel/`
+- Sitio publicado: https://juanfonsecax.github.io/dashboard-negocios/
+- Código: https://github.com/juanfonsecax/dashboard-negocios → la raíz del repo
 
 ## Qué pasó
 
@@ -13,8 +13,8 @@ idénticos a los de las otras dos copias — misma suma de ventas concretadas,
 100.530.128 COP entre los 4 meses de las 2 cuentas — así que no se perdió
 ningún dato al retirarla. Todo queda en el historial de git.
 
-La versión consolidada se subió a `judiff`, donde GitHub Pages ya estaba
-publicando. Allá los datos viven en `panel/datos.json`, separados del código,
+La versión consolidada se subió a `dashboard-negocios`, donde GitHub Pages ya estaba
+publicando. Allá los datos viven en `datos.json`, separados del código,
 y actualizar el dashboard cada mes es reemplazar ese archivo.
 
 Este repo se puede archivar o borrar.
